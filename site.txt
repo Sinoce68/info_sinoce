@@ -1,1 +1,1 @@
-URL:https://URAT1.pythonanywhere.com/
+URL:https://URAT2.pythonanywhere.com/
